@@ -5,8 +5,47 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
   <groupId>eRail</groupId>
   <artifactId>eRail</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
   <name>eRail</name>
   <description>Assignment</description>
+  <url>http://maven.apache.org</url>
+  
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  
+  
+  <build>
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <version>3.13.0</version>
+          <configuration>
+            <!-- put your configurations here -->
+          </configuration>
+        </plugin>
+      
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.5.2</version>
+        <configuration>
+          <suiteXmlFiles>
+            <suiteXmlFile>master.xml</suiteXmlFile>
+          </suiteXmlFiles>
+        </configuration>
+      </plugin>
+        
+        
+        
+      </plugins>
+    </pluginManagement>
+  </build>
+  
+  
+  
   
   
   

@@ -1,0 +1,13 @@
+2025-01-07 21:46:48.078 [main] INFO  TestClasses.TC001_UseCaseTest1 - ******** Starting TC_001 UseCase1 Test ***********
+2025-01-07 21:47:00.394 [main] INFO  TestClasses.TC001_UseCaseTest1 - ******** Finished TC_001 UseCase1 Test ***********
+2025-01-07 21:47:07.437 [main] INFO  TestClasses.TC002_OrangeHRMDDTest - ******** Starting TC_002 UseCase2 Data Driven Test ***********
+2025-01-07 21:47:10.431 [main] INFO  TestClasses.TC002_OrangeHRMDDTest - ******** Details are valid and user login Successful, TC Passed. ***********
+2025-01-07 21:47:12.671 [main] INFO  TestClasses.TC002_OrangeHRMDDTest - ******** Starting TC_002 UseCase2 Data Driven Test ***********
+2025-01-07 21:47:12.672 [main] INFO  TestClasses.TC002_OrangeHRMDDTest - ******** Starting TC_002 UseCase2 Data Driven Test ***********
+2025-01-07 21:47:24.305 [main] INFO  TestClasses.TC002_OrangeHRMDDTest - ******** Details are Invalid and user login unsuccessful, TC Passed ***********
+2025-01-07 21:47:24.305 [main] INFO  TestClasses.TC002_OrangeHRMDDTest - ******** Starting TC_002 UseCase2 Data Driven Test ***********
+2025-01-07 21:47:24.305 [main] INFO  TestClasses.TC002_OrangeHRMDDTest - ******** Starting TC_002 UseCase2 Data Driven Test ***********
+2025-01-07 21:47:35.518 [main] INFO  TestClasses.TC002_OrangeHRMDDTest - ******** Details are Invalid and user login unsuccessful, TC Passed ***********
+2025-01-07 21:47:35.518 [main] INFO  TestClasses.TC002_OrangeHRMDDTest - ******** Starting TC_002 UseCase2 Data Driven Test ***********
+2025-01-07 21:47:35.529 [main] INFO  TestClasses.TC002_OrangeHRMDDTest - ******** Starting TC_002 UseCase2 Data Driven Test ***********
+2025-01-07 21:47:37.608 [main] INFO  TestClasses.TC002_OrangeHRMDDTest - ******** Details are Invalid and user login successful, TC Failed. ***********
